@@ -4,11 +4,15 @@ Journey through MysticGuide a spiritual web application to help guide you toward
 GitHub Repository Link:
 https://github.com/JasmineHarding/MysticGuide.git
 
-**Explanation of project functionality:**
-When first loading the web application you are sent to a Login/ Create Account page. Here you can either login with my current code and password (Username:Jgarcia, Password:1234) or create your personal account, which upon creating will have a 3 second time limit before sending you to the login screen.
-After logging in you can see a “Welcome to Main Page , (your username)” alongside multiple tabs that you are prompted to click. These tabs include:
-•	**Profile** - a page where you can view your username and allow you to update your email and phone number. As well as take and update notes that will save to the database. 
-•	**Exploring Psychic Abilities** - 8 dropdown tabs that include the psychic abilities and upon hovering on them will provide an explanation and how to recognize it. 
-•	**Fundamentals and Components** – this page will prompt you to click on 3 different drop-down buttons that will provide information about each tab and similar. 
-•	**Basic Spells** – this is a page where it gives a simple quick spell from my opinion but also provides a picture that could be clicked to see similar spells someone else recommended.
-•	**Logout** - this will log you out and send you back to the login page.
+Project Functionality Overview:
+
+When you first load the web application, you will be directed to a Login/Create Account page. Here, you can either log in with the provided credentials (Username: Jgarcia, Password: 1234) or create your own personal account. Once you create an account, you will have 3 seconds before being redirected to the login screen.
+
+After logging in, you will be welcomed with a message: "Welcome to the Main Page, [your username]" and you will see several tabs to explore:
+
+Profile: This page displays your username and allows you to update your email and phone number. You can also take and save notes to the database here.
+Exploring Psychic Abilities: This section contains 8 dropdown tabs, each detailing different psychic abilities. Hovering over these tabs will provide explanations and tips on how to recognize these abilities.
+Fundamentals and Components: On this page, you can click on 3 different dropdown buttons, each offering information about various fundamentals and components related to the topic.
+Basic Spells: This page features a simple, quick spell with a personal recommendation. Additionally, you can click on an image to see similar spells suggested by others.
+Logout: Clicking this will log you out and redirect you back to the login page.
+This structure ensures a user-friendly experience, allowing easy navigation and interaction with the different sections of the application.
