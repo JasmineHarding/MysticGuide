@@ -2,9 +2,8 @@
 <html>
 <head>
     <title>Basic Spells</title>
-    <link rel="stylesheet" type="text/css" href="style.css"> 
+    <link rel="stylesheet" type="text/css" href="style.css">
     <style>
-        /* Additional styling to match the existing project theme */
         body {
             font-family: Arial, sans-serif;
             background-color: #f3e5f5; /* Light purple background */
