@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Basic Spells</title>
-    <link rel="stylesheet" type="text/css" href="style.css"> <!-- Link to your existing CSS file -->
+    <link rel="stylesheet" type="text/css" href="style.css"> 
     <style>
         /* Additional styling to match the existing project theme */
         body {
